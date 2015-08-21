@@ -1,3 +1,9 @@
+Dan Reardon 8/21/15
+
+Fork of Phantom theme for Athways blog
+
+----------------------
+
 # Phantom
 
 Phantom is a simple and responsive theme for [Ghost](http://github.com/tryghost/ghost/). It's compatible with ```Ghost (0.5.2)``` and probably upwards, though this is the testet version.
