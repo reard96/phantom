@@ -44,5 +44,13 @@
 	
 	<script type="text/javascript" src="{{asset "/js/prism.js"}}"></script>
 
+	<script src="{{asset "js/jquery.ghostHunter.min.js"}}"></script>
+    <script>
+        $("#search-field").ghostHunter({
+            results   : "#results"
+        });
+    </script>
+
+
 </body>
 </html>
